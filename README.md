@@ -31,7 +31,7 @@
 
 ### 南粤手机银行
 **银行** ：南粤手机银行<br/>
-**我的工作是** 负责系统功能开发，开发测试环境维护以及生产性能问题排查与监控。系统整体架构采用ESB架构 实现分布式部署。我们系统属于面向用户的前端系统通过netty对接部分核心系统,在开发测试中通过shell脚本实现一键打包部署。一次系统上线出现整体系统缓慢以及导致宕机，在线上通过jstack,jmap,jstat分析线程状态以及JVM内存回收生命周期，以及在线下测试环境通过Jmeter压测，同时通过Java Viratul 、Jconsole远程监控服务器/JVM并且定位出问题（分析文章：https://www.rebby.cn/2016/12/08/gc/）。同时在线上通过手动编译实现了ApacheTLS1.2的升级。
+**我的工作是** 负责系统功能开发/开发测试环境维护/以及生产性能问题排查与监控。系统整体架构采用ESB架构 实现分布式部署。我们系统属于面向用户的，前端系统通过netty对接部分核心系统，我在完成业务功能开发的情况下，同时通过shell脚本实现一键打包部署。一次系统上线出现整体系统缓慢以及导致系统宕机，我在线上通过jstack,jmap,jstat分析线程状态以及JVM内存回收生命周期，在线下测试环境通过Jmeter压测，同时通过Java Viratul 、Jconsole远程监控服务器/JVM并且定位出问题（[分析文章](https://www.rebby.cn/2016/12/08/gc/)）。同时在线上通过手动编译实现了ApacheTLS1.2的升级。
 
 
 
@@ -78,7 +78,7 @@
 - 前端框架：Jquery/DHTMLX/ExtJS/
 - 开发工具：eclipse/IntelliJ IDEA/Jmeter
 - 开发环境：linux/mac/window
-- 数据库相关：MySQL/Oracle
+- 数据库相关：MySQL/Oracle/Redis/Mencached
 - 版本管理:Svn/Git
 - 单元测试：Unit
 - 云和开放平台：/微信应用开发/小程序/ECS/
@@ -87,4 +87,4 @@
 ---
 
 # 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+感谢您花时间阅读我的简历，期待能有机会和您共事。<br/>[线上简历]("https://github.com/oidwuhaihua/oidwuhaihua.github.io")
