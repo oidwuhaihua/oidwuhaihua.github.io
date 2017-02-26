@@ -64,8 +64,8 @@
 
 ## 开源项目
 
- - Dm-framework(https://github.com/oidwuhaihua/reb-rpc) : **Dm-framework** 是一个集成spring通过netty为核心实现的远程通信框架，并且支持定制的xml报文协议，以后会支持多种报文协议，目前正在完善中。
- - https://www.rebby.cn(https://github.com/oidwuhaihua/reb-rpc) : 通过 nodejs+hexo+Apache+TLS+Tomcat搭建的个人博客。
+ - (https://github.com/oidwuhaihua/reb-rpc) : **Dm-framework** 是一个集成spring通过netty为核心实现的远程通信框架，并且支持定制的xml报文协议，以后会支持多种报文协议，目前正在完善中。
+ - (https://github.com/oidwuhaihua/reb-rpc) :**https://www.rebby.cn** 通过 nodejs+hexo+Apache+TLS+Tomcat搭建的个人博客。
 
 
 # 技能清单
