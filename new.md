@@ -37,7 +37,7 @@
 #### 南粤手机考勤系统（java+extjs+shell）
 - 在contos环境搭建Apache、weblogic、TLS1.2、Oracle环境以及维护。
 - 完成架构搭建,接口定义与前端(IOS,Android)联调,安排初级开发人员工作与技术指导。
-- 完成考勤报表统计,签到签退,通过Linux crontab shell 完成定时任务备份。
+- 完成考勤报表统计,签到签退,通过Linux crontab shell 定时备份数据库。
 
 ### 广东铭道电子商务有限公司 （ 2014年8月 ~ 2015年5月 ）
 
@@ -61,7 +61,7 @@
 - 完成重合闸统计,原因分析统计,跳闸次数统计,跳闸率统计,馈线长度统计,原因分析统计功能开发和维护。
 #### 开源项目
 
- - [Dm-framework](https://github.com/oidwuhaihua/reb-rpc) : 是一个集成spring通过netty为核心实现的远程通信框架，并且支持定制的xml报文协议，以后会支持多种报文协议，目前正在完善中。
+ - [Dm-framework](https://github.com/oidwuhaihua/reb-rpc) : 是一个集成spring通过netty为核心实现的远程通信框架，并且支持定制的xml报文协议，完善阶段。
  - [https://www.rebby.cn](https://github.com/oidwuhaihua/reb-rpc) : 通过 nodejs+hexo+Apache+TLS+Tomcat搭建的个人博客。
 
 
