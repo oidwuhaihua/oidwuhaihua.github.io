@@ -31,19 +31,22 @@
 
 ### 南粤手机银行（java+shell）
 - 完成南粤E贷款、交通罚款、投资理财、基金平台功能开发与日常维护。
+- 完成微信银行,小程序(理财查询，个人余额查询)功能开发与维护。
 - 完成自动化脚本打包部署,jmeter进行压力测试，根据不同场景调优JVM以及排查生产疑难杂症。
 
 ### 南粤手机考勤系统（java+extjs+shell）
 - 在contos环境搭建Apache、weblogic、TLS1.2、Oracle环境以及维护。
 - 完成架构搭建,接口定义与前端(IOS,Android)联调,安排初级开发人员工作与技术指导。
 - 完成考勤报表统计,签到签退,通过Linux crontab shell 完成定时任务备份。
+
 ## 广东铭道电子商务有限公司 （ 2014年8月 ~ 2015年5月 ）
 
 ### 邻里商城(java+python)
 - 在Linux环境搭建Apache、Tomcat、TLS、Mysql环境以及维护。
-- 通过dubbo+zookeeper搭建分布式框架,以及搭建过程中遇到的疑难杂症 。
+- 参考(http://dubbo.io/)搭建dubbo+zookeeper分布式框架,以及搭建过程中遇到的疑难杂症 。
 - 通过python scripy,BeautifulSoup4 实现图片爬取下载。
 - 完成超市购平台,平台分润功能开发和维护工作。
+
 ## 广州科腾信息技术有限公司  （ 2012年12月 ~ 2014年7月 ）
 
 ### 广州供电局 停电监控系统(java+extjs)
