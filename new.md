@@ -59,13 +59,14 @@
 
 - 跳闸管理,跳闸流程审批(JBPM),跳闸数据同步功能开发与维护。
 - 完成重合闸统计,原因分析统计,跳闸次数统计,跳闸率统计,馈线长度统计,原因分析统计功能开发和维护。
+
 #### 开源项目
 
- - [Dm-framework](https://github.com/oidwuhaihua/reb-rpc) : 是一个集成spring通过netty为核心实现的远程通信框架，并且支持定制的xml报文协议，完善阶段。
+ - [Dm-framework](https://github.com/oidwuhaihua/reb-rpc) : 以netty为核心实现的Rpc框架，并且支持定制的xml报文协议，完善阶段。
  - [https://www.rebby.cn](https://github.com/oidwuhaihua/reb-rpc) : 通过 nodejs+hexo+Apache+TLS+Tomcat搭建的个人博客。
 
 
-##### 技能清单
+#### 技能清单
 
 以下均为我熟练使用的技能
 
