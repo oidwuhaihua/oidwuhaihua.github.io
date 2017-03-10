@@ -29,7 +29,7 @@
 
 <left>
 <img src="https://github.com/oidwuhaihua/imagedata/blob/master/nybak.jpeg" width="10%" height="10%" />
-</left> 广东南粤银行                                       2015年5月 ~ 至今
+</left> 广东南粤银行 nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;2015.5 ~ 至今
 
 #### 南粤手机银行（java+shell）
 - 完成南粤E贷款、交通罚款、投资理财、基金平台功能开发与日常维护。
