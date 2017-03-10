@@ -41,7 +41,9 @@
 - 完成架构搭建,接口定义与前端(IOS,Android)联调,安排初级开发人员工作与技术指导。
 - 完成考勤报表统计,签到签退,通过Linux crontab shell 定时备份数据库。
 
-### 广东铭道电子商务有限公司 （ 2014年8月 ~ 2015年5月 ）
+### 广东铭道电子商务有限公司(http://www.turetop.com/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2014.8 ~ 2015.5 
 
 #### 邻里商城(java+python)
 
@@ -50,7 +52,9 @@
 - 通过python scripy,BeautifulSoup4 实现图片爬取下载。
 - 完成超市购平台,平台分润功能开发和维护工作。
 
-### 广州科腾信息技术有限公司  （ 2012年12月 ~ 2014年7月 ）
+### 广州科腾信息技术有限公司(http://www.gzkit.com.cn/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2012.12 ~ 2014.7
 
 #### 停电监控系统(java+extjs)
 
