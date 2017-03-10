@@ -27,7 +27,9 @@
  热爱IT技术，喜欢看书和研究新技术，喜欢和别人交流和技术分享。研究过一些常用的开源框架和核心代码。对系统瓶颈以及性能优化等有强烈的兴趣。责任心强。具有良好的沟通能力和团队协作能力。努力、勤奋、执着是我对自己人生永远的要求。
 
 
-**广东南粤银行**(http://www.gdnybank.com/index.html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015.5 ~ 至今
+**广东南粤银行**(http://www.gdnybank.com/index.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2015.5 ~ 至今
 
 #### 手机银行（java+shell）
 - 完成南粤E贷款、交通罚款、投资理财、基金平台功能开发与日常维护。
