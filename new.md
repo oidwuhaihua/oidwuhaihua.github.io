@@ -26,6 +26,7 @@
 ## 自我介绍
  热爱IT技术，喜欢看书和研究新技术，喜欢和别人交流和技术分享。研究过一些常用的开源框架和核心代码。对系统瓶颈以及性能优化等有强烈的兴趣。责任心强。具有良好的沟通能力和团队协作能力。努力、勤奋、执着是我对自己人生永远的要求。
 
+## 个人经历
 
 **广东南粤银行**(http://www.gdnybank.com/index.html)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
