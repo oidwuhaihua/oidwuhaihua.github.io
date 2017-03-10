@@ -27,7 +27,7 @@
  热爱IT技术，喜欢看书和研究新技术，喜欢和别人交流和技术分享。研究过一些常用的开源框架和核心代码。对系统瓶颈以及性能优化等有强烈的兴趣。责任心强。具有良好的沟通能力和团队协作能力。努力、勤奋、执着是我对自己人生永远的要求。
 
 <left>
-<img src="https://github.com/oidwuhaihua/imagedata/blob/master/nybak.jpeg" width="60%" height="60%" />
+<img src="https://github.com/oidwuhaihua/imagedata/blob/master/nybak.jpeg" width="10%" height="10%" />
 </left>
 ### 广东南粤银行 （ 2015年5月 ~ 至今 ）
 
