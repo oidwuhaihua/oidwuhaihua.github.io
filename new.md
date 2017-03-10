@@ -29,14 +29,14 @@
 
 <left>
 <img src="https://github.com/oidwuhaihua/imagedata/blob/master/nybak.jpeg" width="10%" height="10%" />
-</left> 广东南粤银行 nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;nbsp;2015.5 ~ 至今
+</left> 广东南粤银行 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2015.5 ~ 至今
 
-#### 南粤手机银行（java+shell）
+#### 手机银行（java+shell）
 - 完成南粤E贷款、交通罚款、投资理财、基金平台功能开发与日常维护。
 - 完成微信银行,小程序(理财查询，个人余额查询)功能开发与维护。
 - 完成自动化脚本打包部署,jmeter进行压力测试，根据不同场景调优JVM以及排查生产疑难杂症。
 
-#### 南粤手机考勤系统（java+extjs+shell）
+#### 手机考勤系统（java+extjs+shell）
 - 在contos系统搭建Apache、weblogic、TLS1.2、Oracle应用以及维护。
 - 完成架构搭建,接口定义与前端(IOS,Android)联调,安排初级开发人员工作与技术指导。
 - 完成考勤报表统计,签到签退,通过Linux crontab shell 定时备份数据库。
