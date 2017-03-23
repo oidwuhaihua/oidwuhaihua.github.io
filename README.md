@@ -3,14 +3,14 @@
 
 # 联系方式
 
-- 手机：156-2230-9815
-- Email：oidwuhaihua@163.com
-- 微信号：haihua741
+- 手机 xxx-xxx-xxx
+- Email：xxx
+- 微信号：xxx
 
 ---
 # 个人信息
 
- - 吴海华/男/1990
+ - xxx/男/xxx
  - 本科/浙江科技学院/信息管理
  - 工作年限：5年
  - 技术博客：https://www.rebby.cn
