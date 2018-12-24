@@ -39,7 +39,7 @@ PDB提供跨媒介、跨平台、跨终端、频次可控的广告投放系统�
 DMP是一个标签系统管理平台，个媒体子公司数据都会回流到基建平台，再经过大数据平台清洗入库。
 - 负责对基础数据crontab定时上传Ftp，对文本信息通过Flume收集。
 - Flume sink kafka HDFS . 
-- 对Kafka信息 通过Java消费并处理，编写Hbase入库组件。
+- 对Kafka消息 通过Java消费并处理，编写Hbase入库组件。
 - 系统技术包括：Dubbo、Kafka、Flume、Hbase、HDFS。
 
 
